@@ -30,8 +30,16 @@ namespace HRM.Models
             return new ApplicationDbContext();
         }
 
-        public System.Data.Entity.DbSet<HRM.Models.Division> Divisions { get; set; }
+        public DbSet<Division> Divisions { get; set; }
 
         public System.Data.Entity.DbSet<HRM.Models.Dept> Depts { get; set; }
+
+        public System.Data.Entity.DbSet<HRM.Models.Section> Sections { get; set; }
+
+       
+
+        public DbSet<Designation> Designation { get; set; }
+         
+        public DbSet<Employee> Employee { get; set; }
     }
 }

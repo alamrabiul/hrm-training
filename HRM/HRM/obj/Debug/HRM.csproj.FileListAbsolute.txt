@@ -64,9 +64,9 @@ E:\LS_DOTNET\hrm-training\HRM\HRM\bin\Microsoft.Owin.Security.OAuth.xml
 E:\LS_DOTNET\hrm-training\HRM\HRM\bin\Microsoft.Owin.Security.Google.xml
 E:\LS_DOTNET\hrm-training\HRM\HRM\bin\Microsoft.Owin.Security.Twitter.xml
 E:\LS_DOTNET\hrm-training\HRM\HRM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.dll
-E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.pdb
 E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.mig01.resources
 E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.Cache
-E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.mig02.resources
-E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.mig03.resources
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.dll
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.pdb
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.div01.resources
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.emp01.resources
