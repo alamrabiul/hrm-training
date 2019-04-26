@@ -190,6 +190,14 @@
     <Compile Include="Migrations\201904191124306_emp01.Designer.cs">
       <DependentUpon>201904191124306_emp01.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904261012547_emp011.cs" />
+    <Compile Include="Migrations\201904261012547_emp011.Designer.cs">
+      <DependentUpon>201904261012547_emp011.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904261059326_EMP02.cs" />
+    <Compile Include="Migrations\201904261059326_EMP02.Designer.cs">
+      <DependentUpon>201904261059326_EMP02.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Dept.cs" />
@@ -302,6 +310,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904191124306_emp01.resx">
       <DependentUpon>201904191124306_emp01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904261012547_emp011.resx">
+      <DependentUpon>201904261012547_emp011.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904261059326_EMP02.resx">
+      <DependentUpon>201904261059326_EMP02.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

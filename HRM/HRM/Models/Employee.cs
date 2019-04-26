@@ -20,6 +20,26 @@ namespace HRM.Models
         public string FullName { get; set; }
         [Display(Name = "Nick Name")]
         public string NickName { get; set; }
+
+
+
+       
+        public int MobieNumber { get; set; }
+        
+
+      
+
+
+
+     
+
+        [Display(Name = "Email")]
+        public string Email { get; set; }
+
+
+     
+
+
         [Display(Name = "Father Name")]
         public string FatherName { get; set; }
         [Display(Name = "Mother Name")]
@@ -30,6 +50,36 @@ namespace HRM.Models
         [Foreignkey("DesignationId")]
 
         public virtual Designation Designation { get; set; }
+
+
+        public string BloodGroup { get; set; }
+
+
+
+
+     
+
+
+
+        [Display(Name = "Dept Name")]
+        public int  DeptId { get; set; }
+        [Foreignkey("DeptId")]
+        public virtual Dept Dept { get; set; }
+        
+        public string Address { get; set; }
+
+
+
+      
+
+
+        
+
+        
+
+        
+
+       
 
         
     }

@@ -70,4 +70,5 @@ E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.dll
 E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.pdb
 E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.div01.resources
 E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.emp01.resources
-E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.csprojResolveAssemblyReference.cache
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.emp011.resources
+E:\LS_DOTNET\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.EMP02.resources
