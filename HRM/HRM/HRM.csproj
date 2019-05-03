@@ -186,17 +186,17 @@
     <Compile Include="Migrations\201904191028468_div01.Designer.cs">
       <DependentUpon>201904191028468_div01.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201904191124306_emp01.cs" />
-    <Compile Include="Migrations\201904191124306_emp01.Designer.cs">
-      <DependentUpon>201904191124306_emp01.cs</DependentUpon>
+    <Compile Include="Migrations\201905030940326_Emp01.cs" />
+    <Compile Include="Migrations\201905030940326_Emp01.Designer.cs">
+      <DependentUpon>201905030940326_Emp01.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201904261012547_emp011.cs" />
-    <Compile Include="Migrations\201904261012547_emp011.Designer.cs">
-      <DependentUpon>201904261012547_emp011.cs</DependentUpon>
+    <Compile Include="Migrations\201905031018341_Empcreate.cs" />
+    <Compile Include="Migrations\201905031018341_Empcreate.Designer.cs">
+      <DependentUpon>201905031018341_Empcreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201904261059326_EMP02.cs" />
-    <Compile Include="Migrations\201904261059326_EMP02.Designer.cs">
-      <DependentUpon>201904261059326_EMP02.cs</DependentUpon>
+    <Compile Include="Migrations\201905031123589_Empall.cs" />
+    <Compile Include="Migrations\201905031123589_Empall.Designer.cs">
+      <DependentUpon>201905031123589_Empall.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -222,6 +222,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\emp-blank-avatar.png" />
+    <Content Include="Images\index.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -308,14 +310,14 @@
     <EmbeddedResource Include="Migrations\201904191028468_div01.resx">
       <DependentUpon>201904191028468_div01.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904191124306_emp01.resx">
-      <DependentUpon>201904191124306_emp01.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905030940326_Emp01.resx">
+      <DependentUpon>201905030940326_Emp01.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904261012547_emp011.resx">
-      <DependentUpon>201904261012547_emp011.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905031018341_Empcreate.resx">
+      <DependentUpon>201905031018341_Empcreate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904261059326_EMP02.resx">
-      <DependentUpon>201904261059326_EMP02.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905031123589_Empall.resx">
+      <DependentUpon>201905031123589_Empall.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -326,6 +328,7 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

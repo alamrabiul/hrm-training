@@ -66,14 +66,19 @@ namespace HRM.Models
         [Foreignkey("DeptId")]
         public virtual Dept Dept { get; set; }
         
+   
+
+
+        [Display(Name ="Address")]
         public string Address { get; set; }
 
 
+        [Display(Name ="Upload File")]
+        public string EmployeePhotoPath { get; set; }
 
-      
 
-
-        
+        [NotMapped]
+        public HttpPostedFileBase EmployeePhoto { get; set; }
 
         
 
